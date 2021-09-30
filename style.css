@@ -16,3 +16,20 @@ h1 {
 #ps3p {
     text-align: center;
 }
+
+#temoi1 {
+    height: 100%;
+    width: 100%;
+}
+
+#temoi2 {
+    height: 100%;
+    width: 100%;
+}
+
+#copy {
+    margin-left: 17%;
+    font-size:0.9vw;
+    opacity: 50%;
+    margin-bottom: 1%;
+}
