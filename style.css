@@ -2,17 +2,23 @@
     padding: 5px 20px;
 }
 
+#toggle {
+    margin-right: 15px;
+}
+
 .jumbotron {
     height: 400px;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/header_surf.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    text-align:center
+    text-align: center
 }
+
 h1 {
     text-align: center;
 }
+
 #ps3p {
     text-align: center;
 }
@@ -29,7 +35,11 @@ h1 {
 
 #copy {
     margin-left: 17%;
-    font-size:0.9vw;
+    font-size: 0.9vw;
     opacity: 50%;
     margin-bottom: 1%;
+}
+
+.nav-item {
+    margin-left: 10px;
 }
